@@ -1,6 +1,6 @@
 let transactions = [];
 let myChart;
-
+//Testing changes
 fetch("/api/transaction")
   .then(response => {
     return response.json();
