@@ -13,6 +13,7 @@ self.addEventListener("install", function (event) {
   );
 });
 
+//V===I think this is right? :/ ===V
 self.addEventListener("fetch", function (event) {
   if (event.request.url.includes("/api/")) {
     event.respondWith(
