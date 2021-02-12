@@ -1,4 +1,5 @@
 # Budget Tracker
+Deployed app:
 
 ## Table of Contents
 * [Description](#description)
@@ -15,11 +16,6 @@ Budget tracker allows users to set a budget for an upcoming trip and manage thei
 Use the url to open the app. Budget tracker can be used through the browser or downloaded to a device as an app.
 ## Usage
 Manage trip expenses.
-## Contributing
-
-## Tests
-
-## Licenses
 
 ## Contact
 * GitHub: bcraig-13
